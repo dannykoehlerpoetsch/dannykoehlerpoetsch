@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Danny Köhler-Poetsch!
-<a href="https://instagram.com/ignorama_666" target="_blank">
+<a href="https://instagram.com/da_ko_po" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
@@ -12,14 +12,14 @@
 
 I am currently undergoing further training as a web and software developer at Digital Career Institute.  
 
-Initially, I will be focusing on HTML5, CSS, and JavaScript. 
+Initially, I will be focusing on HTML5, CSS, JavaScript and React. 
 
 I am excited to fill my GitHub profile with great projects soon!
 
 ##### Something about me
 I live in Leipzig, Germany.
 
-In my free time, I play guitar and piano. I love music, especially punk rock! 🤘 
+In my free time, I play the guitar and the piano. I love music, especially punkrock! 🤘 
 
 I really enjoy Halloween time 🎃 and feel most comfortable in autumn 🍂
 
