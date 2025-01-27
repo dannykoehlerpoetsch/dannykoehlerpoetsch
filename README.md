@@ -28,15 +28,7 @@ I am a **Web and Software Developer** passionate about building scalable and eff
 
 ---
 
-#### Current Focus 💻
 
-I am constantly expanding my skill set and looking for opportunities to work on exciting projects. Currently, I am:
-
-- Building web applications using **HTML5**, **CSS3**, **JavaScript**, and **React.js**.
-- Exploring advanced backend development and deployment strategies.
-- Open to collaboration and networking opportunities.
-
----
 
 #### Visitor Counter
 
