@@ -1,29 +1,51 @@
-### Hi 👋 I'm Danny Köhler-Poetsch!
-<a href="https://instagram.com/da_ko_po" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+### Hi there 👋 I'm Danny Köhler-Poetsch!
 
-<a href="https://linkedin.com/in/danny-köhler-poetsch-6738332a5" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://instagram.com/da_ko_po" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://linkedin.com/in/danny-k%C3%B6hler-poetsch-6738332a5" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-#### Welcome to my Github 
+---
 
+#### Welcome to my GitHub profile! 👨‍💻
 
-I am currently undergoing further training as a web and software developer at Digital Career Institute.  
+I am a **Web and Software Developer** passionate about building scalable and efficient web applications. My current expertise includes the full **MERN Stack**:
 
-Initially, I will be focusing on HTML5, CSS, JavaScript and React. 
+- **MongoDB**: Flexible and scalable database solutions.
+- **Express.js**: Backend framework for building RESTful APIs.
+- **React.js**: Creating dynamic and interactive user interfaces.
+- **Node.js**: Server-side runtime for efficient and scalable applications.
 
-I am excited to fill my GitHub profile with great projects soon!
+---
 
-##### Something about me
-I live in Leipzig, Germany.
+#### About Me 🌟
 
-In my free time, I play the guitar and the piano. I love music, especially punkrock! 🤘 
+- 📍 Based in Leipzig, Germany.
+- 🎸 I play the guitar and the piano, with a love for punk rock music! 🤘
+- 🍂 Autumn is my favorite season, and I especially enjoy Halloween time. 🎃
 
-I really enjoy Halloween time 🎃 and feel most comfortable in autumn 🍂
+---
 
-**Feel free to ask me something!**
+#### Current Focus 💻
+
+I am constantly expanding my skill set and looking for opportunities to work on exciting projects. Currently, I am:
+
+- Building web applications using **HTML5**, **CSS3**, **JavaScript**, and **React.js**.
+- Exploring advanced backend development and deployment strategies.
+- Open to collaboration and networking opportunities.
+
+---
+
+#### Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=danny-kp&style=for-the-badge&color=blue)
+
+---
+
+**Feel free to connect with me or explore my repositories! Let's create something amazing together.** 🚀
+
 
 <!--
 **dannykoehlerpoetsch/dannykoehlerpoetsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
