@@ -28,7 +28,7 @@ I am a **Web and Software Developer** passionate about building scalable and eff
 
 ---
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannykoehlerpoetsch" alt="prathmeshsadake" /></p>
 
 #### Visitor Counter
 
