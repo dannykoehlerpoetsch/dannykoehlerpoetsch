@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Danny Köhler-Poetsch!
 
-<a href="https://instagram.com/da_ko_po" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+
 <a href="https://linkedin.com/in/danny-k%C3%B6hler-poetsch-6738332a5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -28,7 +26,18 @@ I am a **Web and Software Developer** passionate about building scalable and eff
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannykoehlerpoetsch" alt="prathmeshsadake" /></p>
+### Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dannykoehlerpoetsch&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannykoehlerpoetsch&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
 #### Visitor Counter
 
