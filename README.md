@@ -1,64 +1,66 @@
-### Hi there 👋 I'm Danny Köhler-Poetsch!
+# Hi, I'm Danny Köhler-Poetsch
 
+**Frontend Developer | Next.js · Salesforce LWC · UI Engineering**
 
-<a href="https://linkedin.com/in/danny-k%C3%B6hler-poetsch-6738332a5" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+Based in Leipzig, Germany
 
----
+[Portfolio](https://dakopo.vercel.app) · [LinkedIn](https://linkedin.com/in/danny-k%C3%B6hler-poetsch-6738332a5)
 
-#### Welcome to my GitHub profile! 👨‍💻
+## About Me
 
-I am a **Web and Software Developer** passionate about building scalable and efficient web applications. My current expertise includes the full **MERN Stack**:
+I'm a Frontend Developer with professional experience in B2B commerce applications, focusing on UI Engineering, maintainable frontend architectures and user-centered design.
 
-- **MongoDB**: Flexible and scalable database solutions.
-- **Express.js**: Backend framework for building RESTful APIs.
-- **React.js**: Creating dynamic and interactive user interfaces.
-- **Node.js**: Server-side runtime for efficient and scalable applications.
+My work includes customizing Salesforce Lightning Web Components (LWC) and standard components to meet individual design requirements, as well as contributing to Next.js-based frontend projects.
 
----
+Beyond implementation, my experience covers:
 
-#### About Me 🌟
+- **UI/UX Engineering** – User interface optimization, responsive design and accessibility
+- **Frontend Refactoring** – CSS/SCSS architecture, technical debt reduction and maintainability
+- **Requirements Engineering** – Technical refinement, solution design and effort estimation
+- **Web Performance & SEO** – Performance analysis and technical optimization
+- **AI-Assisted Development** – Agentic engineering workflows, reusable AI skills and cost-aware model selection
 
-- 📍 Based in Leipzig, Germany.
-- 🎸 I play the guitar and the piano, with a love for punk rock music! 🤘
-- 🍂 Autumn is my favorite season, and I especially enjoy Halloween time. 🎃
+I value clean code, thoughtful technical decisions and continuous improvement.
 
----
+## Tech Stack
 
-### Github Stats  
-<table><tr><td valign="top" width="50%">
+**Frontend**  
+JavaScript · TypeScript · React · Next.js · HTML5 · CSS3 · SCSS · Tailwind CSS
 
-<img src="https://github-readme-stats.vercel.app/api?username=dannykoehlerpoetsch&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+**Commerce & UI**  
+Salesforce B2B Commerce · Lightning Web Components · SLDS · Radix UI
 
-</td><td valign="top" width="50%">
+**Testing & Quality (Personal Projects)**  
+Vitest · Playwright · React Testing Library · axe-core · GitHub Actions
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannykoehlerpoetsch&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
+**Additional Fullstack Foundations**  
+Node.js · Express.js · MongoDB
 
-</td></tr></table>  
+## Featured Projects
 
-<br/>  
+### [Autoservice Demontage](https://github.com/dannykoehlerpoetsch/autoservice-demontage)
 
-#### Visitor Counter
+A bilingual Next.js application showcasing modern frontend engineering practices through a fictional automotive workshop website.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=danny-kp&style=for-the-badge&color=blue)
+**Tech:** Next.js · TypeScript · Tailwind CSS · Radix UI · next-intl
 
----
+**Highlights:**
+- Responsive and accessible UI components
+- Internationalization and theme switching
+- Interactive appointment request demonstration
+- Automated unit and end-to-end testing
+- CI quality gates and technical SEO
 
-**Feel free to connect with me or explore my repositories! Let's create something amazing together.** 🚀
+[Live Demo](https://autoservice-demontage.vercel.app)
 
+### [DaKoPo – Personal Portfolio](https://github.com/dannykoehlerpoetsch/dakopo)
 
-<!--
-**dannykoehlerpoetsch/dannykoehlerpoetsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My personal developer portfolio built with Next.js and React, featuring responsive layouts, bilingual content, dark/light mode and reusable UI components.
 
-Here are some ideas to get you started:
+[Live Portfolio](https://dakopo.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A Note on Professional Projects
+
+My professional experience includes proprietary B2B commerce applications. Due to confidentiality requirements, client-specific implementations and source code are not publicly available.
+
+The repositories featured here showcase my independent development work.
